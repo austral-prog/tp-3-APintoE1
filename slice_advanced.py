@@ -1,5 +1,4 @@
 def slice_advanced():
   
-    texto=input("Ingrese un texto:")
-    resultado=texto[4::2]
-print(resultado)
+  valor = input ("")
+  print (valor[4::2])
